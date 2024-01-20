@@ -1,3 +1,6 @@
+## How it works
+This simple app will get the stock API from a specific company, compare the previous day closing price with yesterday closing price, if increased/ decreased by 5% -> sent an alert email
+
 ## API
 https://www.alphavantage.co/documentation/#time-series-data 
 
