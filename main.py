@@ -5,7 +5,7 @@ import smtplib
 STOCK_API_KEY = "V7C0P84K525LPMKP"
 NEWS_API_KEY = "9c3e35f65b67480dbb787bbb21eeeb2d"
 EMAIL = "thinh.mc08514@sinhvien.hoasen.edu.vn"
-PASSWORD = "sfjd sqdm wquj xzmj"
+PASSWORD = "**************"
 
 url = f'https://www.alphavantage.co/query'
 stock_params = {
